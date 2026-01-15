@@ -1,6 +1,6 @@
 # Tarea: Arquitectura y Desafíos Actuales - Comparación Docker vs Serverless
 
-**Nombre:** Josué Andrés Mullo Vega  
+**Nombre:** EDUARDO ANDRADE
 **Asignatura:** Diseño y Arquitectura de Software  
 
 ---
