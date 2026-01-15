@@ -1,0 +1,10 @@
+{
+  "name": "serverless-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless": "^3.38.0",
+    "serverless-offline": "^8.8.1"
+  }
+}
